@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const TeamHero = () => {
   return (
-    <section className="relative bg-gray-900 h-60 md:h-84 flex items-center justify-center overflow-hidden">
+    <section className="relative bg-gray-900 h-84 flex items-center justify-center overflow-hidden">
       {/* Background Image with Overlay */}
       <img 
         src="https://plus.unsplash.com/premium_photo-1701202021101-8e1cb3f3ca8d?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
